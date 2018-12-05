@@ -1,0 +1,9 @@
+Z:\Programming with fundamentals\List box\List box\bin\Debug\List box.exe.config
+Z:\Programming with fundamentals\List box\List box\bin\Debug\List box.exe
+Z:\Programming with fundamentals\List box\List box\bin\Debug\List box.pdb
+Z:\Programming with fundamentals\List box\List box\obj\Debug\List box.csprojResolveAssemblyReference.cache
+Z:\Programming with fundamentals\List box\List box\obj\Debug\List_box.Form1.resources
+Z:\Programming with fundamentals\List box\List box\obj\Debug\List_box.Properties.Resources.resources
+Z:\Programming with fundamentals\List box\List box\obj\Debug\List box.csproj.GenerateResource.Cache
+Z:\Programming with fundamentals\List box\List box\obj\Debug\List box.exe
+Z:\Programming with fundamentals\List box\List box\obj\Debug\List box.pdb

@@ -1,0 +1,9 @@
+Z:\Programming with fundamentals\Radio button\Radio button\bin\Debug\Radio button.exe.config
+Z:\Programming with fundamentals\Radio button\Radio button\bin\Debug\Radio button.exe
+Z:\Programming with fundamentals\Radio button\Radio button\bin\Debug\Radio button.pdb
+Z:\Programming with fundamentals\Radio button\Radio button\obj\Debug\Radio button.csprojResolveAssemblyReference.cache
+Z:\Programming with fundamentals\Radio button\Radio button\obj\Debug\Radio_button.Form1.resources
+Z:\Programming with fundamentals\Radio button\Radio button\obj\Debug\Radio_button.Properties.Resources.resources
+Z:\Programming with fundamentals\Radio button\Radio button\obj\Debug\Radio button.csproj.GenerateResource.Cache
+Z:\Programming with fundamentals\Radio button\Radio button\obj\Debug\Radio button.exe
+Z:\Programming with fundamentals\Radio button\Radio button\obj\Debug\Radio button.pdb
