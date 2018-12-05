@@ -1,0 +1,48 @@
+<html>
+<head>
+    <title>
+    </title>
+    <script>
+function myFunction() {
+    var ab = document.getElementById("urname");
+    ab.value = ab.value.toUpperCase();
+}
+        function validateForm() {
+    var ABC = document.forms["f1"]["n1"].value;
+    if (ABC == "") {
+        alert("Give ur name");
+        return false;
+    }
+}
+</script>
+</head>
+
+
+
+    <body>
+    <p >
+        <img style="height=20px; width=20px;" src="bulboff.jpeg" onmouseover="this.src='bulbon.jpeg'" onmouseout="this.src='bulboff.jpeg'">
+         </p>
+        
+        
+        
+        <button type="button"
+                onclick="document.getElementById('dt').innerHTML = Date()">
+          Date and time</button>     
+        
+        <p id="dt"></p>
+        
+        
+        your name please: <input type="text" id="urname" onchange="myFunction()">
+        <input type="button" id="v" onclick="myFunction()">
+        
+        
+        <form name="f1" action="www.google.com"
+onsubmit="return myFunction()" method="post">
+Name: <input type="text" name="n1">
+<input type="submit" value="Submit">
+</form>
+
+       
+    </body>
+</html>
